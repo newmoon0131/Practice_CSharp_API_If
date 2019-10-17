@@ -1,0 +1,2 @@
+C:\KID\Practice_CSharp_API_If\UnityProject\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\KID\Practice_CSharp_API_If\UnityProject\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
